@@ -1,0 +1,6 @@
+[wrap-file]
+directory = jpeg-turbo-2.0.4
+
+source_url = https://github.com/libjpeg-turbo/libjpeg-turbo/archive/2.0.4.tar.gz
+source_filename = 2.0.4.tar.gz
+source_hash = 7777C3C19762940CFF42B3BA4D7CD5C52D1671B39A79532050C85EFB99079064
